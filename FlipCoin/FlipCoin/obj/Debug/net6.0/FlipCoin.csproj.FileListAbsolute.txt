@@ -1,0 +1,15 @@
+C:\Users\RJ EMPIRE\Desktop\New folder\FlipCoin\FlipCoin\bin\Debug\net6.0\FlipCoin.exe
+C:\Users\RJ EMPIRE\Desktop\New folder\FlipCoin\FlipCoin\bin\Debug\net6.0\FlipCoin.deps.json
+C:\Users\RJ EMPIRE\Desktop\New folder\FlipCoin\FlipCoin\bin\Debug\net6.0\FlipCoin.runtimeconfig.json
+C:\Users\RJ EMPIRE\Desktop\New folder\FlipCoin\FlipCoin\bin\Debug\net6.0\FlipCoin.dll
+C:\Users\RJ EMPIRE\Desktop\New folder\FlipCoin\FlipCoin\bin\Debug\net6.0\FlipCoin.pdb
+C:\Users\RJ EMPIRE\Desktop\New folder\FlipCoin\FlipCoin\obj\Debug\net6.0\FlipCoin.csproj.AssemblyReference.cache
+C:\Users\RJ EMPIRE\Desktop\New folder\FlipCoin\FlipCoin\obj\Debug\net6.0\FlipCoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RJ EMPIRE\Desktop\New folder\FlipCoin\FlipCoin\obj\Debug\net6.0\FlipCoin.AssemblyInfoInputs.cache
+C:\Users\RJ EMPIRE\Desktop\New folder\FlipCoin\FlipCoin\obj\Debug\net6.0\FlipCoin.AssemblyInfo.cs
+C:\Users\RJ EMPIRE\Desktop\New folder\FlipCoin\FlipCoin\obj\Debug\net6.0\FlipCoin.csproj.CoreCompileInputs.cache
+C:\Users\RJ EMPIRE\Desktop\New folder\FlipCoin\FlipCoin\obj\Debug\net6.0\FlipCoin.dll
+C:\Users\RJ EMPIRE\Desktop\New folder\FlipCoin\FlipCoin\obj\Debug\net6.0\refint\FlipCoin.dll
+C:\Users\RJ EMPIRE\Desktop\New folder\FlipCoin\FlipCoin\obj\Debug\net6.0\FlipCoin.pdb
+C:\Users\RJ EMPIRE\Desktop\New folder\FlipCoin\FlipCoin\obj\Debug\net6.0\FlipCoin.genruntimeconfig.cache
+C:\Users\RJ EMPIRE\Desktop\New folder\FlipCoin\FlipCoin\obj\Debug\net6.0\ref\FlipCoin.dll

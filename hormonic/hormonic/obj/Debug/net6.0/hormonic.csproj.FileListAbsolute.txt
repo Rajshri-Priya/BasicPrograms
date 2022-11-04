@@ -1,0 +1,15 @@
+C:\Users\RJ EMPIRE\Desktop\New folder\hormonic\hormonic\bin\Debug\net6.0\hormonic.exe
+C:\Users\RJ EMPIRE\Desktop\New folder\hormonic\hormonic\bin\Debug\net6.0\hormonic.deps.json
+C:\Users\RJ EMPIRE\Desktop\New folder\hormonic\hormonic\bin\Debug\net6.0\hormonic.runtimeconfig.json
+C:\Users\RJ EMPIRE\Desktop\New folder\hormonic\hormonic\bin\Debug\net6.0\hormonic.dll
+C:\Users\RJ EMPIRE\Desktop\New folder\hormonic\hormonic\bin\Debug\net6.0\hormonic.pdb
+C:\Users\RJ EMPIRE\Desktop\New folder\hormonic\hormonic\obj\Debug\net6.0\hormonic.csproj.AssemblyReference.cache
+C:\Users\RJ EMPIRE\Desktop\New folder\hormonic\hormonic\obj\Debug\net6.0\hormonic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RJ EMPIRE\Desktop\New folder\hormonic\hormonic\obj\Debug\net6.0\hormonic.AssemblyInfoInputs.cache
+C:\Users\RJ EMPIRE\Desktop\New folder\hormonic\hormonic\obj\Debug\net6.0\hormonic.AssemblyInfo.cs
+C:\Users\RJ EMPIRE\Desktop\New folder\hormonic\hormonic\obj\Debug\net6.0\hormonic.csproj.CoreCompileInputs.cache
+C:\Users\RJ EMPIRE\Desktop\New folder\hormonic\hormonic\obj\Debug\net6.0\hormonic.dll
+C:\Users\RJ EMPIRE\Desktop\New folder\hormonic\hormonic\obj\Debug\net6.0\refint\hormonic.dll
+C:\Users\RJ EMPIRE\Desktop\New folder\hormonic\hormonic\obj\Debug\net6.0\hormonic.pdb
+C:\Users\RJ EMPIRE\Desktop\New folder\hormonic\hormonic\obj\Debug\net6.0\hormonic.genruntimeconfig.cache
+C:\Users\RJ EMPIRE\Desktop\New folder\hormonic\hormonic\obj\Debug\net6.0\ref\hormonic.dll
